@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiusovidiusn02giergoog_0086.png"; bbox 0 0 3185 5138; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 670 2000 2801 2207">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 670 2000 2801 2207">
+     <span class='ocr_line' id='line_1_1' title="bbox 759 2000 2801 2091; baseline -0.003 -25"><span class='ocrx_word' id='word_1_1' title='bbox 759 2004 841 2066; x_wconf 83' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_2' title='bbox 873 2005 954 2068; x_wconf 84' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_3' title='bbox 987 2006 1407 2091; x_wconf 79' lang='lat' dir='ltr'>Argumentum</span> <span class='ocrx_word' id='word_1_4' title='bbox 1428 2005 1600 2089; x_wconf 76' lang='lat' dir='ltr'><strong>hujus</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1633 2004 1793 2066; x_wconf 82' lang='lat' dir='ltr'>Libri</span> <span class='ocrx_word' id='word_1_6' title='bbox 1819 2007 1962 2073; x_wconf 79' lang='lat' dir='ltr'>noni</span> <span class='ocrx_word' id='word_1_7' title='bbox 1995 2004 2537 2088; x_wconf 76' lang='lat' dir='ltr'><strong>Metamorphosenn</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2563 2000 2801 2063; x_wconf 74' lang='lat' dir='ltr'><strong>relatum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 670 2115 2556 2207; baseline -0.001 -26"><span class='ocrx_word' id='word_1_9' title='bbox 670 2119 933 2184; x_wconf 55' lang='lat' dir='ltr'>*invenies</span> <span class='ocrx_word' id='word_1_10' title='bbox 969 2120 1030 2181; x_wconf 87' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_11' title='bbox 1059 2122 1203 2184; x_wconf 80' lang='lat' dir='ltr'>serie</span> <span class='ocrx_word' id='word_1_12' title='bbox 1232 2121 1517 2183; x_wconf 69' lang='lat' dir='ltr'>Cmu-:m</span> <span class='ocrx_word' id='word_1_13' title='bbox 1536 2165 1556 2198; x_wconf 85' lang='lat'>,</span> <span class='ocrx_word' id='word_1_14' title='bbox 1596 2132 1735 2183; x_wconf 73' lang='lat' dir='ltr'><strong>tom.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1767 2121 1899 2197; x_wconf 86' lang='lat'>111,</span> <span class='ocrx_word' id='word_1_16' title='bbox 1932 2140 2062 2206; x_wconf 81' lang='lat' dir='ltr'><strong>pag.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2090 2115 2190 2207; x_wconf 80' lang='lat'>39.</span> <span class='ocrx_word' id='word_1_18' title='bbox 2549 2132 2556 2139; x_wconf 89' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

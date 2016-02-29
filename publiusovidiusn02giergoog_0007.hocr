@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiusovidiusn02giergoog_0007.png"; bbox 0 0 3185 5138; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 373 1834 2508 1974">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 373 1834 2508 1974">
+     <span class='ocr_line' id='line_1_1' title="bbox 373 1834 2508 1974; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 373 1836 980 1973; x_wconf 87' lang='lat' dir='ltr'>PUBLII</span> <span class='ocrx_word' id='word_1_2' title='bbox 1055 1835 1651 1974; x_wconf 85' lang='lat' dir='ltr'><strong>OVIDII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1728 1834 2508 1973; x_wconf 87' lang='lat' dir='ltr'><strong>NASONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1052 2145 1788 2225">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1052 2145 1788 2225">
+     <span class='ocr_line' id='line_1_2' title="bbox 1052 2145 1788 2225; baseline -0.005 -14"><span class='ocrx_word' id='word_1_4' title='bbox 1052 2222 1057 2225; x_wconf 17' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1102 2148 1163 2224; x_wconf 84' lang='lat' dir='ltr'>Q</span> <span class='ocrx_word' id='word_1_6' title='bbox 1176 2145 1788 2211; x_wconf 77' lang='lat' dir='ltr'><strong>TTTTTTTT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 638 2381 2008 2508">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 638 2381 2008 2508">
+     <span class='ocr_line' id='line_1_3' title="bbox 638 2381 2008 2508; baseline -0.002 1"><span class='ocrx_word' id='word_1_7' title='bbox 638 2381 648 2385; x_wconf 43' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 853 2400 1406 2508; x_wconf 84' lang='lat' dir='ltr'><strong>OMNIA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1483 2399 2008 2507; x_wconf 88' lang='lat' dir='ltr'><strong>OPERA</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
