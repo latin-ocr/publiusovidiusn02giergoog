@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiusovidiusn02giergoog/publiusovidiusn02giergoog_0008.png"; bbox 0 0 3185 5138; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 654 1914 2787 2016">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 654 1914 2787 2016">
+     <span class='ocr_line' id='line_1_1' title="bbox 654 1914 2787 2016; baseline 0 -16"><span class='ocrx_word' id='word_1_1' title='bbox 654 1938 1250 2000; x_wconf 82' lang='lat' dir='ltr'>EXGUDEBANT</span> <span class='ocrx_word' id='word_1_2' title='bbox 1310 1940 1663 2000; x_wconf 55' lang='grc' dir='ltr'><strong>ΑΗΘ-ΕΒ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1709 1914 2427 2014; x_wconf 64' lang='lat' dir='ltr'>DONDEY-DUPRE&#39;I,</span> <span class='ocrx_word' id='word_1_4' title='bbox 2479 1940 2787 2016; x_wconf 83' lang='lat' dir='ltr'><strong>PATER,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 944 2070 2491 2146">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 944 2070 2491 2146">
+     <span class='ocr_line' id='line_1_2' title="bbox 944 2070 2491 2146; baseline 0 -16"><span class='ocrx_word' id='word_1_5' title='bbox 944 2088 1032 2130; x_wconf 83' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 1076 2088 1419 2130; x_wconf 73' lang='lat' dir='ltr'>PnosPEn</span> <span class='ocrx_word' id='word_1_7' title='bbox 1469 2070 2155 2146; x_wconf 69' lang='lat' dir='ltr'>DONDEY-DUPRE,</span> <span class='ocrx_word' id='word_1_8' title='bbox 2199 2088 2491 2132; x_wconf 62' lang='lat' dir='ltr'>rums,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
